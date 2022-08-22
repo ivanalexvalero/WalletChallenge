@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CreditCardData" representedClassName="CreditCardData" syncable="YES" codeGenerationType="class">
+        <attribute name="creditBalance" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="creditCVV" optional="YES" attributeType="String"/>
+        <attribute name="creditDate" optional="YES" attributeType="String"/>
+        <attribute name="creditName" optional="YES" attributeType="String"/>
+        <attribute name="creditNumber" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CreditCardData" positionX="-63" positionY="-18" width="128" height="104"/>
+    </elements>
+</model>
