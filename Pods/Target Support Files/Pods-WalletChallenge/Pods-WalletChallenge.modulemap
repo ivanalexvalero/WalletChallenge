@@ -1,0 +1,6 @@
+framework module Pods_WalletChallenge {
+  umbrella header "Pods-WalletChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
